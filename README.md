@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sradha-maharana
-- 👀 I’m interested in remote working
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Onsite working
+- 🌱 I’m currently learning generative ai
+- 💞️ I’m looking to collaborate on webdev projects
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:I make animation and blender models which is quite interesting to learn
 
